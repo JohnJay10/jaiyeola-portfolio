@@ -78,7 +78,7 @@ const Navbar = () => {
             </button>
             
             <a
-              href="/resume.pdf"
+              href="/JayCV.pdf"
               className="btn-primary flex items-center space-x-2"
               download
             >
