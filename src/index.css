@@ -199,3 +199,19 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(to bottom, #2563eb, #7c3aed);
 }
+
+/* Light Mode Colors */
+text-gray-900: #111827 (dark text on light bg)
+text-gray-700: #374151 (medium text)
+bg-white/80: semi-transparent white
+bg-gray-100: light gray background
+
+/* Dark Mode Colors */
+dark:text-white: white text
+dark:text-gray-300: light gray text (#D1D5DB)
+dark:bg-gray-900/80: semi-transparent dark
+dark:bg-gray-800: dark gray background
+
+/* Accent Colors */
+text-blue-600: #2563eb (blue accent)
+text-cyan-400: #22d3ee (cyan accent)
